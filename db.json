@@ -1,0 +1,43 @@
+{
+    "jobs": [
+        {"id": 1, "jobTitle": "برنامه‌نویس Front-End", "companyName": "ایده پردازان", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=1", "urgent": true},
+        {"id": 2, "jobTitle": "Front-End Web Developer", "companyName": "پردازش نگار راشین ", "location": "اصفهان", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=2", "urgent": false},
+        {"id": 3, "jobTitle": "برنامه‌نویس Front-End", "companyName": "هال حمل کالا", "location": "شیراز", "contractType": "پاره وقت", "logo": "https://picsum.photos/200/300?random=3", "urgent": false},
+        {"id": 4, "jobTitle": "کارآموز (Front-End (ReactJs", "companyName": "فرزان سیستم مانا", "location": "تهران", "contractType": "پاره وقت", "logo": "https://picsum.photos/200/300?random=4", "urgent": true},
+        {"id": 5, "jobTitle": "برنامه‌نویس Front-End", "companyName": "سحاب پرداز ", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=5", "urgent": true},
+        {"id": 6, "jobTitle": "برنامه‌نویس Front-End", "companyName": "ارکید فارمد", "location": "رشت", "contractType": "پاره وقت", "logo": "https://picsum.photos/200/300?random=6", "urgent": true},
+        {"id": 7, "jobTitle": "Front-End Developer (Internship)", "companyName": "نوآوران پردازش گستر نصر", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=7", "urgent": false},
+        {"id": 8, "jobTitle": "برنامه‌نویس Back-End(دورکاری) ", "companyName": "جیبیت", "location": "تهران", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=8", "urgent": true},
+        {"id": 9, "jobTitle": "Back-End Developer(Java)", "companyName": "کاوانو", "location": "بندرعباس", "contractType": "تمام وقت", "logo": "https://picsum.photos/200/300?random=9", "urgent": false}
+    ],
+    "team": [
+        {"image": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/815/cached.offlinehbpl.hbpl.co.uk/news/ORP/ginpic-20180223123437455.jpg", "name": "محمد کاظمی راز", "jobTitle": "برنامه نویس ارشد"},
+        {"image": "https://cdn.psychologytoday.com/sites/default/files/styles/amp_metadata_content_image_min_1200px_wide/public/field_blog_entry_teaser_image/2018-07/always_right_pexels-144x144-156_26-399_399.jpg?itok=Ir1-2ns8", "name": "امیرحسین حسینیان", "jobTitle": "مدیر عامل"},
+        {"image": "https://cdn.now.howstuffworks.com/media-content/0b7f4e9b-f59c-4024-9f06-b3dc12850ab7-1920-1080.jpg", "name": "شاهین نجمی", "jobTitle": "مدیر تیم"}
+    ],
+    "blogPosts": [
+        {"id": 1, "image": "https://picsum.photos/200/300?random=10", "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.", "date": "1399/05/28", "commentsCount": 2},
+        {"id": 2, "image": "https://picsum.photos/200/300?random=11", "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.", "date": "1399/05/27", "commentsCount": 7},
+        {"id": 3, "image": "https://picsum.photos/200/300?random=12", "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.", "date": "1399/05/25", "commentsCount": 9},
+        {"id": 4, "image": "https://picsum.photos/200/300?random=13", "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.", "date": "1399/05/26", "commentsCount": 1},
+        {"id": 5, "image": "https://picsum.photos/200/300?random=14", "title": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.", "date": "1399/05/15", "commentsCount": 15}
+    ],
+    "jobDetails": {
+        "id": 9,
+        "title": "برنامه نویس Front-End",
+        "company": "کاوانو",
+        "contractType":"تمام وقت",
+        "logo":"https://picsum.photos/200/300?random=1",
+        "uregent": false,
+        "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.",
+        "location": "تهران",
+        "requirement": ["تسلط کامل به JavaScript ،ES5, ES6", "تسلط کامل به React.JS", "تسلط کامل به Redux - JSX - Redux-Saga", "تسلط به CSS - HTML - Bootstrap", "تسلط به طراحی Responsive", "تسلط به تولید Modular Components", "کدنویسی خوانا، قابل نگهداری و مستند سازی کامل", "دارای مهارت حل مسئله", "توانایی کار تیمی"],
+        "advantages": ["پرداخت حقوق و مزایای عالی، منظم و به موقع", "دارای بیمه تامین اجتماعی و بیمه عمر", "محاسبه اضافه کاری طبق قانون", "محل کار تهران جنت آباد جنوبی چهارراه لاله"]
+    },
+    "jobBoard": {
+        "candidates": 1930,
+        "jobPosted": 54,
+        "jobFilled": 120,
+        "companies": 550
+    }
+}
